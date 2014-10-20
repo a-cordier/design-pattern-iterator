@@ -1,4 +1,4 @@
-### Interpreter Pattern
+### Iterator Pattern
 
 #### A behavioral pattern
 
