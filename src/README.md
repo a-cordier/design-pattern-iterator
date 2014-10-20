@@ -1,0 +1,15 @@
+### Interpreter Pattern
+
+#### A behavioral pattern
+
+Provides a way to access the elements of an aggregate object without exposing its underlying represenation.
+
+
+Source code stems from the following UML diagram:
+
+![alt text](design-pattern-iterator.png "Design Pattern Iterator")
+
+
+
+
+
